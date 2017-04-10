@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PagerFragmentList.iml" filepath="$PROJECT_DIR$/PagerFragmentList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paperfragmentlistview/paperfragmentlistview.iml" filepath="$PROJECT_DIR$/paperfragmentlistview/paperfragmentlistview.iml" />
+    </modules>
+  </component>
+</project>
